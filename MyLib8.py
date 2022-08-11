@@ -1,0 +1,12 @@
+def Tambah(a,b):
+    return a+b
+def Kurang(a,b):
+    return a-b
+def Kali(a,b):
+    return a*b
+def Bagi(a,b):
+    return a/b
+def LuasPersegi(sisi):
+    return sisi*sisi
+def LuasSegitiga(alas,tinggi):
+    return 0.5*alas*tinggi

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppSambongrejo</string>
+    <string name="title_activity_menu">Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Menu</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_desc1">Jagung merupakan pengganti karbohidrat yang banyak kandungan manfaatnya. Manfaatnya, yaitu bisa memberikan energi pada tubuh untuk beraktivitas. Selain itu, kandungan nutrisi lainnya pada jagung juga memberikan manfaat kesehatan yang melimpah.</string>
+    <string name="tv_desc2">Kentang adalah sumber kabohidrat yang dapat menggantikan nasi. Tanaman ini merupakan herba (tanaman pendek tidak berkayu) semusim dan menyukai iklim yang sejuk. Di daerah tropis cocok ditanam di dataran tinggi.</string>
+    <string name="tv_desc3">Wortel kaya akan vitamin A, dimana vitamin A dapat menyehatkan mata. Untuk mendapatkan hasil optimal wortel harus dibudidayakan di dataran tinggi dengan ketinggian minimal 1000 mdpl dengan temperatur udara optimal 15 -21 derajat Celsius.</string>
+    <string name="tv_desc4">Kol adalah sayuran yang kaya akan manfaat. Diantaranya Sumber nutrisi penting, memperlancar saluran pencernaan, menurunkan tekanan darah, dan sebagainya.</string>
+    <string name="tv_desc5">Kangkung termasuk jenis sayur-sayuran dan ditanam sebagai makanan. Kangkung banyak dijual di pasar-pasar. Kangkung banyak terdapat di kawasan Asia, tempat asalnya tidak diketahui. dan merupakan tumbuhan yang dapat dijumpai hampir di mana-mana terutama di kawasan berair.</string>
+    <string name="tv_desc6">Sawi termasuk sayuran yang sangat bermanfaat Anda dapat dengan mudah mengolahnya dalam berbagai masakan, seperti tumisan, sayur berkuah, asinan, hingga menjadi topping pada mie ayam. Selain hijau terang, sayuran ini juga memiliki warna lain yaitu putih kehijauan dan hijau gelap.</string>
+</resources>
