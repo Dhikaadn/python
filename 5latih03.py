@@ -5,5 +5,3 @@ else:
     print("Anda diundang")
 
 print("hello world")
-
-print("end")
